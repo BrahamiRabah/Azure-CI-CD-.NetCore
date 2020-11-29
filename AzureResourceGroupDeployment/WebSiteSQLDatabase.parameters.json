@@ -3,22 +3,22 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "hostingPlanName": {
-      "value": "houssemdellai-service-plan"
+      "value": "brahamirabah-service-plan"
     },
     "administratorLogin": {
-      "value": "houssem"
+      "value": "Rabah"
     },
     "administratorLoginPassword": {
-      "value": "@Aa123456"
+      "value": "@123456$"
     },
     "databaseName": {
       "value": "EmployeesDB"
     },
     "webSiteName": {
-      "value": "houssemdellai-webapp"
+      "value": "BrahamiR-webapp"
     },
     "sqlserverName": {
-      "value": "houssemdellai-sql"
+      "value": "BrahamiServeur-sql"
     }
   }
 }
